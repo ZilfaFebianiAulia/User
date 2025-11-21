@@ -96,7 +96,7 @@ td img {
         <td>Alamat</td>
         <td>Kode Pos</td>
         <td>Kota</td>
-        <td>Action</td>
+        <td>Aksi</td>
     <tr>
 
         <?php while($row = mysqli_fetch_assoc($result)): ?>
