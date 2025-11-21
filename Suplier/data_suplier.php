@@ -92,7 +92,7 @@ td img {
 <table border = "1">
     <tr>
         <td>Id Suplier</td>
-        <td>Nama Suplier</td>
+        <td>Nama Lengkap Suplier</td>
         <td>Alamat</td>
         <td>Kode Pos</td>
         <td>Kota</td>
